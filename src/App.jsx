@@ -4,7 +4,7 @@ import Link from "./components/Link";
 function App() {
   return (
     <div className="flex justify-center items-center flex-col">
-      <div className="flex flex-col -mt-10">
+      <div className="flex flex-col -mt-12">
         <h1 className="text-white text-center text-4xl font-bold">Projects</h1>
         <br />
         <Buttons />
