@@ -1,14 +1,26 @@
 export default function Buttons() {
   return (
-    <div className="px-14 flex gap-2 justify-between mb-4 mt-2">
+    <div className="px-14 flex gap-2 justify-between mb-4 mt-1 ">
       <a href="https://www.linkedin.com/in/bishal272/" target="_blank" rel="noreferrer">
-        <img src="./linkedin-white.svg" alt="" className="w-6 rounded-md" />
+        <img
+          src="./linkedin-white.svg"
+          alt=""
+          className="w-6 rounded-md transition ease-in hover:scale-150"
+        />
       </a>
       <a href="https://twitter.com/merkasin" target="_blank" rel="noreferrer">
-        <img src="./twitter-white.svg" alt="" className="w-6 rounded-md" />
+        <img
+          src="./twitter-white.svg"
+          alt=""
+          className="w-6 rounded-md transition ease-in hover:scale-150"
+        />
       </a>
       <a href="https://github.com/bishal272" target="_blank" rel="noreferrer">
-        <img src="./github-white.svg" alt="" className="w-6 rounded-md" />
+        <img
+          src="./github-white.svg"
+          alt=""
+          className="w-6 rounded-md transition ease-in hover:scale-150"
+        />
       </a>
     </div>
   );
