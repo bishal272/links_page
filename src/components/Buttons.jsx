@@ -22,7 +22,7 @@ export default function Buttons() {
           className="w-6 rounded-md transition ease-in hover:scale-150"
         />
       </a>
-      <a href="https://bit.ly/rsm-merk" target="_blank" rel="noreferrer">
+      <a href="https://bit.ly/rm-merk" target="_blank" rel="noreferrer">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
