@@ -5,21 +5,21 @@ export default function Buttons() {
         <img
           src="./linkedin-white.svg"
           alt=""
-          className="w-6 rounded-md transition ease-in hover:scale-150"
+          className="w-6 rounded-md transition ease-in hover:scale-150 shadow-xl shadow-blue-500"
         />
       </a>
       <a href="https://twitter.com/merkasin" target="_blank" rel="noreferrer">
         <img
           src="./twitter-white.svg"
           alt=""
-          className="w-6 rounded-md transition ease-in hover:scale-150"
+          className="w-6 rounded-md transition ease-in hover:scale-150 shadow-xl shadow-blue-500"
         />
       </a>
       <a href="https://github.com/bishal272" target="_blank" rel="noreferrer">
         <img
           src="./github-white.svg"
           alt=""
-          className="w-6 rounded-md transition ease-in hover:scale-150"
+          className="w-6 rounded-md transition ease-in hover:scale-150 shadow-xl shadow-blue-500"
         />
       </a>
       <a href="https://bit.ly/rm-merk" target="_blank" rel="noreferrer">
@@ -29,7 +29,7 @@ export default function Buttons() {
           viewBox="0 0 24 24"
           strokeWidth={1.5}
           stroke="currentColor"
-          className="w-6 h-6 text-white transition ease-in hover:scale-150">
+          className="w-6 h-6 text-white transition ease-in hover:scale-150 shadow-xl shadow-blue-500">
           <path
             strokeLinecap="round"
             strokeLinejoin="round"

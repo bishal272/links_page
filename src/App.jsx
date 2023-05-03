@@ -9,10 +9,10 @@ function App() {
           <img
             src="https://avatars.githubusercontent.com/u/83636171?v=4"
             alt=""
-            className="rounded-full w-20 h-20 transition ease-in hover:scale-110 "
+            className="rounded-full w-20 h-20 transition ease-in hover:scale-110"
           />
           <div className="px-5 ml-4">
-            <h1 className="text-white text-center mb-3">Bishal Sarkar</h1>
+            <h1 className="text-white text-center mb-3 shadow">Bishal Sarkar</h1>
             <h1 className="text-white text-center text-4xl font-bold">Projects</h1>
           </div>
         </div>
