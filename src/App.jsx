@@ -20,6 +20,7 @@ function App() {
         <Buttons />
         <Link url={"https://fullstack-booking-app.vercel.app/"} title={"Booking App"} />
         <Link url={"https://social-media-merkasin.vercel.app"} title={"Social Media App"} />
+        <Link url={"https://ecommerce-merkasin.vercel.app"} title={"Ecommerce App"} />
         <Link url={"https://todo-app-merkasin.vercel.app/"} title={"Todo App"} />
         <Link url={"https://tic-tac-toe-merkasin.vercel.app/"} title={"Tic Tac Toe game"} />
         <Link url={"https://bishal272.github.io/Google-keep-clone/"} title={"Keeper"} />
